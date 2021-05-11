@@ -1,0 +1,83 @@
+            #full {
+                background-color: antiquewhite;
+            }
+            
+            .text {
+                text-align: center;
+            }
+            
+            a:hover {
+                color: plum;
+            }
+            
+            a {
+                color: grey;
+                padding: 20px;
+                border-style: dashed;
+            }
+            
+            .head1 {
+                text-align: center;
+            }
+            
+            .head2 {
+                text-align: center;
+            }
+            
+            .right_column {
+                float: right;
+                width: 50%;
+                /* padding-left: 50px;*/
+                text-align: left;
+                margin-bottom: 10px;
+            }
+            
+            .left_column {
+                float: left;
+                width: 47%;
+                border: 5%;
+            }
+            
+            .card {
+                padding: 10px;
+                margin-top: 20px;
+            }
+            
+            .row::after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+            
+            .p {
+                padding: 30px;
+                margin: 20px;
+                width: 400px;
+                float: left;
+                padding-bottom: 250px;
+            }
+            
+            .p1 {
+                padding: 50px;
+                margin: 30px;
+                float: right;
+                padding-bottom: 120px;
+            }
+            
+            #column {
+                align-content: center;
+                align-items: center;
+                margin: auto;
+            }
+            
+            #column {
+                height: 200px;
+                width: 100px;
+            }
+            
+            .footer {
+                padding: 50px;
+                background-color: bisque;
+                margin-top: 20px;
+                align-content: center;
+            }

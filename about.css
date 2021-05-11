@@ -1,0 +1,40 @@
+.p3 {
+    background-color: grey;
+    padding: 25px;
+}
+
+ul li {
+    display: inline;
+}
+
+#content {
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+}
+
+.text1 {
+    text-align: center;
+    padding: 50px;
+}
+
+a:hover {
+    color: pink;
+}
+
+a {
+    color: purple;
+    padding: 20px;
+    border-style: dashed;
+}
+
+.nav {
+    padding: 100px;
+}
+
+#content:hover {
+    color: pink;
+    font-size: 20px;
+}

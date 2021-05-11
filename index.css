@@ -1,0 +1,45 @@
+                .p1 {
+                    background-color: azure;
+                    padding: 25px;
+                }
+                
+                ul li {
+                    display: inline;
+                }
+                
+                #h1 {
+                    text-align: center;
+                }
+                
+                body {
+                    background-color: skyblue;
+                }
+                
+                .t1 {
+                    text-align: center;
+                    padding: 50px;
+                }
+                
+                .img1 {
+                    height: 500px;
+                    width: 400px;
+                    border-radius: 10px;
+                }
+                
+                a:hover {
+                    color: pink;
+                }
+                
+                a {
+                    color: purple;
+                    padding: 20px;
+                    border-style: dashed;
+                }
+                
+                .nav {
+                    padding: 100px;
+                }
+                
+                .big_container {
+                    display: flex;
+                }
